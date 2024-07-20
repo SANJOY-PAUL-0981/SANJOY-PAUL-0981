@@ -9,7 +9,7 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 - 🌱 **Learning:** JavaScript and exploring the depths of ML and AI.
 - 👯 **Looking to collaborate on:** I am not looking for any collaboration right now.
 - 💬 **Ask me about:** JavaScript, Frontend, and any kind of Tech.
-- 📫 **How to reach me:** [Twitter]([https://instagram.com/kono_evilsturn](https://x.com/SanjoyPaul0981)) | [LinkedIn](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
+- 📫 **How to reach me:** [Twitter](https://x.com/SanjoyPaul0981) | [LinkedIn](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
 
 
 ## 🛠️ Skills & Tools
