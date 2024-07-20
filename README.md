@@ -26,6 +26,6 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 ## 🌐 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/SanjoyPaul0981)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shubhojit-ghosh-571379291](https://www.linkedin.com/in/sanjoy-paul-b0053122a/))
+[![LinkedIn](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
 
 Thanks for stopping by! Let's build something amazing together :)
