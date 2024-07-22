@@ -20,8 +20,8 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 
 ## 📊 GitHub Stats
 
-![Shubhojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANJOY-PAUL-0981&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJOY-PAUL-0981&layout=compact&theme=radical)
+![Sanjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANJOY-PAUL-0981&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJOY-PAUL-0981&layout=compact&theme=merko)
 
 ## 🌐 Connect with Me
 
