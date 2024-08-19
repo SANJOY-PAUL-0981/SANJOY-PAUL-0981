@@ -9,7 +9,7 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 - 🌱 **Learning:** JavaScript and exploring the depths of ML and AI.
 - 👯 **Looking to collaborate on:** I am not looking for any collaboration right now.
 - 💬 **Ask me about:** JavaScript, Frontend, and any kind of Tech.
-- 📫 **How to reach me:** [Twitter](https://x.com/SanjoyPaul0981) | [LinkedIn](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
+- 📫 **How to reach me:** [Twitter](https://x.com/Sanj0yX) | [LinkedIn](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
 
 
 ## 🛠️ Skills & Tools
@@ -25,7 +25,7 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanjoyPaul0981)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sanj0yX)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjoypaul.vercel.app/)
 
