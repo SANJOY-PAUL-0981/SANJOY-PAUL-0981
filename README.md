@@ -21,7 +21,7 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 ## 📊 GitHub Stats
 
 ![Sanjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANJOY-PAUL-0981&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJOY-PAUL-0981&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJOY-PAUL-0981&layout=donut)](https://github.com/SANJOY-PAUL-0981/github-readme-stats)
 
 ## 🌐 Connect with Me
 
