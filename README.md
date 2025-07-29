@@ -22,6 +22,9 @@ Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a 
 
 ![Sanjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANJOY-PAUL-0981&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJOY-PAUL-0981&layout=compact&theme=radical&hide=html,css)
+
+
 ## 🌐 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sanj0yX)
