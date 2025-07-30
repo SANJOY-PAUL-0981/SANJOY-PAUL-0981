@@ -1,20 +1,20 @@
 # 👋 Hello World, I'm Sanjoy Paul!
 
-🌟 **Beginner Web Developer**
+🌟 **Web Developer, More fluent in Backend**
 
-Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a passion for solving problems and building exciting things. I am a 2nd year college student in CSE. I am also an ML enthusiast. I love to learn and talk about tech. If you are interested in tech or need a member for a hackathon, feel free to connect.
+Hello World! I'm Sanjoy, a dedicated Tech enthusiast and a Web Developer with a passion for solving problems and building exciting things. I am a 3rd year college student in CSE. I am also an ML enthusiast. I love to learn and talk about tech. If you are interested in tech or need a member for a hackathon, feel free to connect.
 ## 📚 About Me
 
 - 🔭 **Currently working on:** Skilling up myself in Web development and hoping to contributing to open-source.
 - 🌱 **Learning:** Backend and exploring the depths of AI.
-- 👯 **Looking to collaborate on:** I am not looking for any collaboration right now.
+- 👯 Looking to collaborate
 - 💬 **Ask me about:** JavaScript, Frontend, Backend, and any kind of Tech.
 - 📫 **How to reach me:** [Twitter](https://x.com/Sanj0yX) | [LinkedIn](https://www.linkedin.com/in/sanjoy-paul-b0053122a/)
 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** JavaScript, C, HTML, CSS
+- **Languages:** Typescript, JavaScript, C, HTML, CSS
 - **Frameworks:** Bootstraps, Tailwind CSS, Express, React, NodeJS
 - **Tools:** GitHub, VSCode, MongoDB.
 
